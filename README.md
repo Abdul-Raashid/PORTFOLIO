@@ -2,7 +2,7 @@ Shaik Abdul Raashid - Portfolio
 Welcome to my personal portfolio repository! This project showcases my academic journey, skills, certifications, and projects, providing a glimpse into my expertise and aspirations in Cybersecurity and Blockchain.
 
 🌐 Live Portfolio
-Explore the live version of my portfolio here: shaikraashid.netlify.app
+Explore the live version of my portfolio here: [shaikraashid.netlify.app](https://shaikraashid.netlify.app/)
 
 Here's a professional and engaging README file template for your portfolio repository:
 
