@@ -4,7 +4,6 @@ Welcome to my personal portfolio repository! This project showcases my academic 
 🌐 Live Portfolio
 Explore the live version of my portfolio here: shaikraashid.netlify.app
 
-
 Here's a professional and engaging README file template for your portfolio repository:
 
 Shaik Abdul Raashid - Portfolio
