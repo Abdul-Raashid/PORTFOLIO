@@ -1,44 +1,42 @@
-# vCard - Personal portfolio
+Shaik Abdul Raashid - Portfolio
+Welcome to my personal portfolio repository! This project showcases my academic journey, skills, certifications, and projects, providing a glimpse into my expertise and aspirations in Cybersecurity and Blockchain.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+🌐 Live Portfolio
+Explore the live version of my portfolio here: shaikraashid.netlify.app
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+Here's a professional and engaging README file template for your portfolio repository:
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+Shaik Abdul Raashid - Portfolio
+Welcome to my personal portfolio repository! This project showcases my academic journey, skills, certifications, and projects, providing a glimpse into my expertise and aspirations in Cybersecurity and Blockchain.
 
-## Prerequisites
+🌐 Live Portfolio
+Explore the live version of my portfolio here: shaikraashid.netlify.app
 
-Before you begin, ensure you have met the following requirements:
+📖 About Me
+I am Shaik Abdul Raashid, a recent graduate in Computer Science and Engineering (CSE) with Honors from KL University. My specialization in Cybersecurity and Blockchain reflects my passion for solving complex problems, ensuring digital safety, and exploring decentralized technologies.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+📚 Education
+KL University (2020 – 2024)
+B.Tech in Computer Science and Engineering - Honors
 
-## Installing vCard
+CGPA: 9.04
+Andhra Loyola College (2018 – 2020)
+Intermediate Education (Science Stream)
 
-To install **vCard**, follow these steps:
+CGPA: 8.29
+Sri Chaitanya International Olympiad School (2017 – 2018)
+10th Grade (CBSE Board)
 
-Linux and macOS:
+CGPA: 7.50
+💻 Features
+This portfolio includes:
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+About Me: My professional journey and background.
+Skills: My expertise in programming, tools, and technologies.
+Projects: Highlights of my academic and personal projects.
+Certifications: Relevant courses and certifications I have completed.
+Blogs: Articles and thoughts on tech-related topics.
+🔧 Technologies Used
+Frontend: HTML, CSS, JavaScript
+Hosting: Netlify
